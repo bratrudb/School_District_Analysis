@@ -22,11 +22,11 @@ Thomas High School's standing relative to other schools is unchanged. Their over
   - Math and reading scores by grade
       - The Thomas High School ninth grade scores for both math and reading now list nan
   - Scores by school spending
-      - Unchanged
+      - No noticeable change
   - Scores by school size
-      - Unchanged
+      - No noticeable change
   - Scores by school type
-      - Unchanged
+      - No noticeable change
 
 ## Summary
 
